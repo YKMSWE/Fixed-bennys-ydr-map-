@@ -8,7 +8,6 @@ How to install:
 
 1. Create a folder named "map" in you resource directory.
 2. Take the stream folder and the resource.lua files and just drag and drop them into the map folder.
-3. Then you type this in your server cfg  ### MAP ###
-                                           start map
+3. Then you type this anywhere in your server cfg : start map
 
 Now just restart your server and enjoy!;)
